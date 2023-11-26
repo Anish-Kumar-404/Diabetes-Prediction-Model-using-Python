@@ -1,1 +1,4 @@
-Implementation of AI Project 2023
+DIABETES PREDICTION MODEL USING PYTHON AND DJANGO
+diabetes prediction . html is python file of training the model converted into html.
+
+ 
